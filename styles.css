@@ -9,3 +9,21 @@
 .full-height {
         height: 100vh;
         }
+        
+    
+  /* @media (max-width: 576px){
+    .folders{
+        height: 50vh;
+    }
+}
+
+@media (min-width: 577px){
+    .folders{
+        height: 100vh;
+    }
+}
+
+@media (min-width 992px) {
+    .rap-around{
+        height: 100vh;
+    } */
